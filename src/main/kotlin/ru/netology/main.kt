@@ -1,3 +1,5 @@
+package ru.netology
+
 fun main() {
     val transfer = 100_000
     val commission = 0.0075
